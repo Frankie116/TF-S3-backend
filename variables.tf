@@ -16,6 +16,14 @@ variable my-environment {
   default               = "dev"
 }
 
+# 07a-s3-bucket.tf -------------------------------------------------------
+variable "my-s3-bucket-name" {
+  type    = string
+  default = "my-s3-tf-backend-000"
+}
+
+
+
 # 16a-dynamodb-table.tf -------------------------------------------------------
 variable "my-db-tablename" {
   type    = string
