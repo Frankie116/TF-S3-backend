@@ -23,4 +23,7 @@ Refactored the follwing code:
         changelog.md
 
 Changelog-003
-        updated minor syntax errors
+        Updated minor syntax errors
+
+Changelog-004
+        Added a readme file.
