@@ -21,3 +21,6 @@ Refactored the follwing code:
         08b-iampd-statelock-logs.tf
         16a-dynamodb-statelock.tf
         changelog.md
+
+Changelog-003
+        updated minor syntax errors

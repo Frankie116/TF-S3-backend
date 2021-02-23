@@ -1,7 +1,7 @@
 # ---------------------------------------------------------------------------------------------------
 # version  2.0
 # Library: https://github.com/Frankie116/my-library.git
-# Creates an s3 bucket & bucket policy to enable lb logs to be stored.  (Delete on destroy)
+# Creates an s3 bucket to enable logs to be stored.  
 # ---------------------------------------------------------------------------------------------------
 
 # req:
